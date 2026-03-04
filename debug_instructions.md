@@ -4,7 +4,7 @@ input 1: target bug
 input 2: important scripts (optional)
 
 
-**BEFORE START**, the first step is to ask run command permissions. run a command in terminal to navigate to the repo directory.  
+**BEFORE START**, the first step is to ask run command permissions. run a command in terminal to navigate to the repo directory. Then, **read through this entire file and follow the instructions carefully**. 
 
 When ask to debug, always, first read the folliwing files (**REFER AS KEY MD FILES**):
 1. codebase_overview.md

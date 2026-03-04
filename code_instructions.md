@@ -4,7 +4,7 @@ inputs:
 input 1: target functionalities
 input 2: preferred files
 
-**BEFORE START**, the first step is to ask run command permissions. run a command in terminal to navigate to the repo directory.  
+**BEFORE START**, the first step is to ask run command permissions. run a command in terminal to navigate to the repo directory.  Then, **read through this entire file and follow the instructions carefully**. 
 
 When ask to implement new functionalities, always, first read the folliwing files (**REFER AS KEY MD FILES**):
 1. codebase_overview.md

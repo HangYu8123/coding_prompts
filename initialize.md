@@ -73,4 +73,8 @@ if the file does not exist, create an empty file.
 if the file exists, do nothing. 
 if the file does not exist, create an empty file. 
 
+##7 past_Q&A.md:
+if the file exists, do nothing. 
+if the file does not exist, create an empty file. 
+
 **Finally. add  code_instructions.md, debug_instructions.md, and initialize.md files to .gitignore**
